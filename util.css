@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: black; 
+    
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width:30vw;
+    height:338px;
+}
+.button{
+    color: white;
+    background-color: black;
+    padding: 24px;
+    width: 98px;
+    list-style: none;
+}
+.input{
+    height: 63px;
+    width: 300px;
+
+
+}
+/* .button{
+    color: green;
+    background-color: cyan;
+} */
+/* .button.buttons{
+    color:aqua;
+    padding: 24px;
+    width: 100px;
+} */
